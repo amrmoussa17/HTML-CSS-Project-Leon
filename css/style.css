@@ -42,6 +42,7 @@ body {
     }
 }
 /* End Global Rules */
+/* Start Header Section */
 header {
     padding: 20px;
 }
@@ -111,5 +112,30 @@ header .header {
     text-decoration: none;
     color: var(--font-color-sec);
 }
+/* End Header Section */
+/* Start Landing Section */
+.landing {
+    background-image: url(/imgs/landing.jpg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.landing-text {
+    text-align: center;
+    width: 320px;
+    margin: 0 auto;
+}
+.landing-text h1 {
+    margin: 0;
+    font-size: 2.6em;
+    color: var(--main-color);
+}
+.landing-text p {
+    font-size: 19px;
+    line-height: 1.8;
+}
+/* End Landing Section */
 
 

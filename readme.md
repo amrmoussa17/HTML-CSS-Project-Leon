@@ -1,4 +1,4 @@
-# HTML & CSS Project
+# HTML & CSS Project - Leon
 credits to [@elzeroAcademy](https://www.youtube.com/@ElzeroAcademy) channel on YouTube for providing this [@design](https://www.graphberry.com/item/leon-psd-agency-template)
 template to work with.
 
